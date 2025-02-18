@@ -1,4 +1,4 @@
-package com.second_year.finalproject.Api.Interfaces
+package com.second_year.finalproject.Views
 
 import android.content.Intent
 import android.os.Bundle

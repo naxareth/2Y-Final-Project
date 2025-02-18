@@ -7,12 +7,10 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.second_year.finalproject.Api.Interfaces.ForgotPasswordActivity
 import com.second_year.finalproject.Api.RetrofitClient
 import com.second_year.finalproject.R
 import okhttp3.ResponseBody
 import org.json.JSONException
-import com.second_year.finalproject.Api.Interfaces.LoginActivity
 import org.json.JSONObject
 import retrofit2.Call
 import retrofit2.Callback

@@ -1,4 +1,4 @@
-package com.second_year.finalproject.Api.Interfaces
+package com.second_year.finalproject.Views
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,7 +8,6 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.second_year.finalproject.R
 import com.second_year.finalproject.Api.RetrofitClient
-import com.second_year.finalproject.Views.MainActivity
 import okhttp3.ResponseBody
 import org.json.JSONException
 import org.json.JSONObject
